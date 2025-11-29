@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Building+resilient+cloud+infrastructures;Running+marathons+%26+Reading+philosophy;Architecting+the+Cloud.+Building+Resilience." />
   </a>
 
-typescript
+```typescript
 const abdelilah = {
     role: "Cloud & DevOps Engineering Student @ INPT",
     code: ["Python", "Go", "TypeScript", "Bash"],
