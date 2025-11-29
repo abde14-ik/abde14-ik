@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Abdelilah%20IKBI&fontSize=90&fontColor=fbbf24&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineering%20Student&descAlignY=55&descSize=25" alt="Abdelilah IKBI Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0f172a&amp;height=300&amp;section=header&amp;text=Abdelilah%20IKBI&amp;fontSize=90&amp;fontColor=fbbf24&amp;fontAlignY=35&amp;desc=Cloud%20%26%20DevOps%20Engineering%20Student&amp;descAlignY=55&amp;descSize=25" alt="Abdelilah IKBI Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,13 +13,13 @@
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/abdelilah-ikbi-103597283/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="mailto:abdeikbi200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://abde14-ik.github.io/portfolio/resume.pdf">
-    <img src="https://img.shields.io/badge/CV-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-Download-2ea44f?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" />
   </a>
 </div>
 
@@ -55,8 +55,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=fbbf24&icon_color=a855f7&text_color=cbd5e1" alt="Abdelilah's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde14-ik&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=fbbf24&text_color=cbd5e1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;icon_color=a855f7&amp;text_color=cbd5e1" alt="Abdelilah's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde14-ik&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;text_color=cbd5e1" alt="Top Languages" />
 </div>
 
 <br />
@@ -72,5 +72,5 @@
 * **Endurance:** 846 km logged this year.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abde14-ik&color=fbbf24&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abde14-ik&amp;color=fbbf24&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
 </div>
