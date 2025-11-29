@@ -8,6 +8,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Building+resilient+cloud+infrastructures;Running+marathons+%26+Reading+philosophy;Architecting+the+Cloud.+Building+Resilience." />
   </a>
 
+typescript
+const abdelilah = {
+    role: "Cloud & DevOps Engineering Student @ INPT",
+    code: ["Python", "Go", "TypeScript", "Bash"],
+    technologies: {
+        cloud: ["AWS", "Azure", "OpenStack"],
+        orchestration: ["Kubernetes", "Docker", "Helm"],
+        iac: ["Terraform", "Ansible", "Bicep"]
+    },
+    challenge: "Turning caffeine into scalable infrastructure ☕",
+    current_focus: "Mastering Distributed Systems Reliability"
+};
+
   <br/>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" />
