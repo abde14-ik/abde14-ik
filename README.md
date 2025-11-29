@@ -63,27 +63,25 @@
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abde14-ik&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="abde14-ik Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abde14-ik&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="abde14-ik Trophies" />
   </a>
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&show_icons=true&hide_border=true&bg_color=0f172a&title_color=fbbf24&icon_color=7c3aed&text_color=cbd5e1&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;icon_color=7c3aed&amp;text_color=cbd5e1&amp;include_all_commits=true" height="180" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde14-ik&hide_border=true&background=0f172a&ring=fbbf24&currStreakLabel=fbbf24&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=cbd5e1&fire=fbbf24" height="180" alt="Current Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde14-ik&amp;hide_border=true&amp;background=0f172a&amp;ring=fbbf24&amp;currStreakLabel=fbbf24&amp;currStreakNum=cbd5e1&amp;sideNums=cbd5e1&amp;sideLabels=cbd5e1&amp;fire=fbbf24" height="180" alt="Current Streak" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde14-ik&layout=compact&hide_border=true&bg_color=0f172a&title_color=fbbf24&text_color=cbd5e1&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abde14-ik&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;text_color=cbd5e1&amp;langs_count=8" alt="Top Languages" />
 
 </div>
-
-<br />
 
 ---
 
