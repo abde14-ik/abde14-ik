@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0f172a&amp;height=300&amp;section=header&amp;text=Abdelilah%20IKBI&amp;fontSize=90&amp;fontColor=fbbf24&amp;fontAlignY=35&amp;desc=Cloud%20%26%20DevOps%20Engineering%20Student&amp;descAlignY=55&amp;descSize=25" alt="Abdelilah IKBI Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0f172a&amp;height=300&amp;section=header&amp;text=Abdelilah%20IKBI&amp;fontSize=90&amp;fontColor=fbbf24&amp;fontAlignY=35&amp;desc=Cloud%20and%20DevOps%20Engineering%20Student&amp;descAlignY=55&amp;descSize=25" alt="Abdelilah IKBI Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -63,14 +63,23 @@
 
 ---
 
+---
+
 ### 🏃‍♂️ Beyond the Code
 
-> *"A human being is never meant to be dissociated into parts."*
+<div align="center">
+  <br />
+  <em>"A human being is never meant to be dissociated into parts. We are complex, whole, and far more than what we think."</em>
+  <br />
+  <strong dir="rtl">"لم يُخلق الإنسان ليُختزل في أجزاء. نحن كيانٌ كاملٌ معقد، وأبعدُ بكثيرٍ مما نظن."</strong>
+  <br /><br />
+</div>
 
 * **Founder:** INPT Runners (Student Running Club).
 * **Current Read:** *The Myth of Normal* by Dr. Gabor Maté.
 * **Endurance:** 846 km logged this year.
 
 <div align="center">
+  <br />
   <img src="https://komarev.com/ghpvc/?username=abde14-ik&amp;color=fbbf24&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
 </div>
