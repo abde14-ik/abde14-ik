@@ -58,24 +58,16 @@
 
 ---
 
-### **Beyond the Code**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abde14-ik/portfolio/main/public/images/gold-line.png" height="1px" width="100%" /> 
-  <br />
-  
-  <i>"A human being is never meant to be dissociated into parts. We are complex, whole, and far more than what we think."</i>
-  
-  <br /><br />
+
   
   <strong dir="rtl" style="font-size: 1.1em; color: #fbbf24;">"لم يُخلق الإنسان ليُختزل في أجزاء. نحن كيانٌ كاملٌ معقد، وأبعدُ بكثيرٍ مما نظن."</strong>
   
   <br /><br />
 </div>
 
-* **Founder:** INPT Runners (Student Running Club)  
-* **Current Read:** *The Myth of Normal* — Dr. Gabor Maté  
-* **Endurance:** 846 km logged this year  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abde14-ik&color=fbbf24&style=flat-square&label=Profile+Views" />
