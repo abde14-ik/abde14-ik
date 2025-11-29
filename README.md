@@ -55,27 +55,7 @@
 | **[Local RAG System](https://github.com/abde14-ik/)** | Offline RAG with local LLMs, containerized for secure document Q&A. | `Python` `Ollama` `LangChain` `Docker` |
 | **[Azure Pet Store](https://github.com/abde14-ik/)** | N-Tier serverless-style architecture on Azure using AKS, App Service & Bicep. | `Azure` `Bicep` `AKS` `GitHub Actions` |
 
----
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abde14-ik&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="abde14-ik Trophies" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&show_icons=true&hide_border=true&bg_color=0f172a&title_color=fbbf24&icon_color=7c3aed&text_color=cbd5e1&include_all_commits=true" height="180" alt="GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde14-ik&hide_border=true&background=0f172a&ring=fbbf24&currStreakLabel=fbbf24&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=cbd5e1&fire=fbbf24" height="180" alt="GitHub Streak" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abde14-ik&hide_border=true&bg_color=0f172a&title_color=fbbf24&text_color=cbd5e1&langs_count=6&card_width=400" alt="Top Languages" />
-
-</div>
 ---
 
 ### **Beyond the Code**
