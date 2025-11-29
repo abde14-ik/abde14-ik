@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Building+resilient+cloud+infrastructures+%E2%98%81%EF%B8%8F;Running+marathons+%26+Reading+philosophy+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Architecting+the+Cloud.+Building+Resilience.+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Building+resilient+cloud+infrastructures+%E2%98%81%EF%B8%8F;Running+marathons+%26+Reading+philosophy+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Architecting+the+Cloud.+Building+Resilience.+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -33,7 +33,6 @@
   </a>
 
 </div>
-
 <br />
 
 ---
