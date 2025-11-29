@@ -36,6 +36,26 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abde14-ik&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="abde14-ik Trophies" />
+  </a>
+  
+  <br/><br/>
+
+  <img src="https://github.com/abde14-ik/abde14-ik/blob/metrics/github-metrics.svg" alt="Royal Metrics Dashboard" width="100%" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde14-ik&hide_border=true&background=0f172a&ring=fbbf24&currStreakLabel=fbbf24&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=cbd5e1&fire=fbbf24" height="180" alt="Current Streak" />
+
+</div>
+
+
+
 ### **Technical Arsenal**
 
 <div align="center">
