@@ -76,12 +76,11 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde14-ik&amp;hide_border=true&amp;background=0f172a&amp;ring=fbbf24&amp;currStreakLabel=fbbf24&amp;currStreakNum=cbd5e1&amp;sideNums=cbd5e1&amp;sideLabels=cbd5e1&amp;fire=fbbf24" height="180" alt="Current Streak" />
 
-  <br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abde14-ik&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;text_color=cbd5e1&amp;include_all_commits=true&amp;count_private=true" alt="Top Languages" />
 
 </div>
----
+
+
 
 ### Beyond the Code
 
