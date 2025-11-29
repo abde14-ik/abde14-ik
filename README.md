@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0f172a&amp;height=300&amp;section=header&amp;text=Abdelilah%20IKBI&amp;fontSize=90&amp;fontColor=fbbf24&amp;fontAlignY=35&amp;desc=Cloud%20and%20DevOps%20Engineering%20Student&amp;descAlignY=55&amp;descSize=25" alt="Abdelilah IKBI Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Abdelilah%20IKBI&fontSize=90&fontColor=fbbf24&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineering%20Student&descAlignY=55&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Building+resilient+cloud+infrastructures;Running+marathons+%26+Reading+philosophy;Architecting+the+Cloud.+Building+Resilience." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Building+resilient+cloud+infrastructures;Running+marathons+%26+Reading+philosophy;Architecting+the+Cloud.+Building+Resilience." />
   </a>
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Animation" />
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" />
+
   <br/><br/>
 
   <a href="https://abde14-ik.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/View_Cinematic_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=fbbf24&labelColor=0b0c15" alt="View Portfolio" />
+    <img src="https://img.shields.io/badge/View_Cinematic_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=fbbf24&labelColor=0b0c15" />
   </a>
 
   <br/><br/>
@@ -34,11 +34,9 @@
 
 </div>
 
-<br />
-
 ---
 
-### Technical Arsenal
+### **Technical Arsenal**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab" />
@@ -46,47 +44,49 @@
   <img src="https://skillicons.dev/icons?i=python,java,nodejs,mongodb,postgres,linux,bash,grafana,prometheus" />
 </div>
 
-<br />
-
 ---
 
-### Featured Projects
+### **Featured Projects**
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Readers Haven](https://github.com/Aymane27-Rio/readers-haven)** | **Microservices & Observability Platform**<br>Full-stack app orchestrated via K8s with a secure API Gateway and full Prometheus/Grafana monitoring. | `React` `Node.js` `K8s` `Prometheus` `MongoDB` |
-| **[3-Tier DevOps Pipeline](https://github.com/abde14-ik/3-Tier-Full-Stack-main)** | **Automated Cloud Deployment**<br>Robust Jenkins CI/CD pipeline deploying a 3-tier app to AWS EKS using Helm, SonarQube, and Trivy. | `Jenkins` `AWS EKS` `Helm` `Docker` `Trivy` |
-| **[Local RAG System](https://github.com/abde14-ik/)** | **Offline GenAI**<br>Containerized Retrieval-Augmented Generation system using local LLMs for secure document Q&A. | `Python` `LangChain` `Ollama` `Docker` |
-| **[Azure Pet Store](https://github.com/abde14-ik/)** | **Serverless Architecture**<br>N-Tier app on Azure using AKS, App Service, and Bicep IaC. | `Azure` `Bicep` `AKS` `Github Actions` |
-
-<br />
+| **[Readers Haven](https://github.com/Aymane27-Rio/readers-haven)** | Microservices & Observability Platform with K8s, secure gateway, full Prometheus & Grafana pipeline. | `React` `Node.js` `K8s` `Prometheus` `MongoDB` |
+| **[3-Tier DevOps Pipeline](https://github.com/abde14-ik/3-Tier-Full-Stack-main)** | Full CI/CD pipeline deploying a 3-tier app to AWS EKS using Helm, SonarQube, Trivy. | `Jenkins` `AWS EKS` `Helm` `Docker` `Trivy` |
+| **[Local RAG System](https://github.com/abde14-ik/)** | Offline RAG with local LLMs, containerized for secure document Q&A. | `Python` `Ollama` `LangChain` `Docker` |
+| **[Azure Pet Store](https://github.com/abde14-ik/)** | N-Tier serverless-style architecture on Azure using AKS, App Service & Bicep. | `Azure` `Bicep` `AKS` `GitHub Actions` |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 **GitHub Analytics**
 
 <div align="center">
-  
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abde14-ik&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="abde14-ik Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abde14-ik&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
   </a>
-  
+
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;icon_color=7c3aed&amp;text_color=cbd5e1&amp;include_all_commits=true" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde14-ik&amp;hide_border=true&amp;background=0f172a&amp;ring=fbbf24&amp;currStreakLabel=fbbf24&amp;currStreakNum=cbd5e1&amp;sideNums=cbd5e1&amp;sideLabels=cbd5e1&amp;fire=fbbf24" height="180" alt="Current Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&show_icons=true&hide_border=true&bg_color=0f172a&title_color=fbbf24&icon_color=fbbf24&text_color=cbd5e1&include_all_commits=true" height="180" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abde14-ik&hide_border=true&background=0f172a&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=cbd5e1" height="180" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abde14-ik&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;text_color=cbd5e1&amp;langs_count=6&amp;card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abde14-ik&hide_border=true&layout=compact&bg_color=0f172a&title_color=fbbf24&text_color=cbd5e1&card_width=400" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abde14-ik&hide_border=true&bg_color=0f172a&color=fbbf24&line=fbbf24&point=cbd5e1&area=true" />
 
 </div>
 
-### Beyond the Code
+---
+
+### **Beyond the Code**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abde14-ik/portfolio/main/public/images/gold-line.png" alt="" height="1px" width="100%" /> 
+  <img src="https://raw.githubusercontent.com/abde14-ik/portfolio/main/public/images/gold-line.png" height="1px" width="100%" /> 
   <br />
   
   <i>"A human being is never meant to be dissociated into parts. We are complex, whole, and far more than what we think."</i>
@@ -95,15 +95,13 @@
   
   <strong dir="rtl" style="font-size: 1.1em; color: #fbbf24;">"لم يُخلق الإنسان ليُختزل في أجزاء. نحن كيانٌ كاملٌ معقد، وأبعدُ بكثيرٍ مما نظن."</strong>
   
-  <br />
-  <br />
+  <br /><br />
 </div>
 
-* **Founder:** INPT Runners (Student Running Club).
-* **Current Read:** *The Myth of Normal* by Dr. Gabor Maté.
-* **Endurance:** 846 km logged this year.
+* **Founder:** INPT Runners (Student Running Club)  
+* **Current Read:** *The Myth of Normal* — Dr. Gabor Maté  
+* **Endurance:** 846 km logged this year  
 
 <div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=abde14-ik&amp;color=fbbf24&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abde14-ik&color=fbbf24&style=flat-square&label=Profile+Views" />
 </div>
