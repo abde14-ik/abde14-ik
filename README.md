@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Building+resilient+cloud+infrastructures+%E2%98%81%EF%B8%8F;Running+marathons+%26+Reading+philosophy+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Engineering+meets+Humanity.+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Building+resilient+cloud+infrastructures+%E2%98%81%EF%B8%8F;Running+marathons+%26+Reading+philosophy+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Architecting+the+Cloud.+Building+Resilience.+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -33,6 +33,7 @@
   </a>
 
 </div>
+
 <br />
 
 ---
@@ -65,24 +66,39 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;icon_color=a855f7&amp;text_color=cbd5e1" alt="Abdelilah's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde14-ik&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;text_color=cbd5e1" alt="Top Languages" />
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abde14-ik&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="abde14-ik Trophies" />
+  </a>
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=abde14-ik&show_icons=true&hide_border=true&bg_color=0f172a&title_color=fbbf24&icon_color=7c3aed&text_color=cbd5e1&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde14-ik&hide_border=true&background=0f172a&ring=fbbf24&currStreakLabel=fbbf24&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=cbd5e1&fire=fbbf24" height="180" alt="Current Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde14-ik&layout=compact&hide_border=true&bg_color=0f172a&title_color=fbbf24&text_color=cbd5e1&langs_count=8" alt="Top Languages" />
+
 </div>
-
-<br />
-
----
 
 ---
 
 ### 🏃‍♂️ Beyond the Code
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/abde14-ik/portfolio/main/public/images/gold-line.png" alt="" height="1px" width="100%" /> 
   <br />
-  <em>"A human being is never meant to be dissociated into parts. We are complex, whole, and far more than what we think."</em>
-  <br />
-  <strong dir="rtl">"لم يُخلق الإنسان ليُختزل في أجزاء. نحن كيانٌ كاملٌ معقد، وأبعدُ بكثيرٍ مما نظن."</strong>
+  
+  <i>"A human being is never meant to be dissociated into parts. We are complex, whole, and far more than what we think."</i>
+  
   <br /><br />
+  
+  <strong dir="rtl" style="font-size: 1.1em; color: #fbbf24;">"لم يُخلق الإنسان ليُختزل في أجزاء. نحن كيانٌ كاملٌ معقد، وأبعدُ بكثيرٍ مما نظن."</strong>
+  
+  <br />
+  <br />
 </div>
 
 * **Founder:** INPT Runners (Student Running Club).
