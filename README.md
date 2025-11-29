@@ -79,11 +79,9 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abde14-ik&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;text_color=cbd5e1&amp;include_all_commits=true&amp;langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abde14-ik&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=fbbf24&amp;text_color=cbd5e1&amp;langs_count=6&amp;card_width=400" alt="Top Languages" />
 
 </div>
-
-
 
 ### Beyond the Code
 
