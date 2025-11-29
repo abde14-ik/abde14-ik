@@ -5,10 +5,14 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Building+resilient+cloud+infrastructures+%E2%98%81%EF%B8%8F;Running+marathons+%26+Reading+philosophy+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Engineering+meets+Humanity.+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&lines=Building+resilient+cloud+infrastructures+%E2%98%81%EF%B8%8F;Running+marathons+%26+Reading+philosophy+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Engineering+meets+Humanity.+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Animation" />
+  
+  <br/><br/>
 
   <a href="https://abde14-ik.github.io/portfolio/">
     <img src="https://img.shields.io/badge/View_Cinematic_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=fbbf24&labelColor=0b0c15" alt="View Portfolio" />
