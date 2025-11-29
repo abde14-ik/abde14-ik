@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Building+resilient+cloud+infrastructures+%E2%98%81%EF%B8%8F;Running+marathons+%26+Reading+philosophy+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Architecting+the+Cloud.+Building+Resilience.+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=Building+resilient+cloud+infrastructures;Running+marathons+%26+Reading+philosophy;Architecting+the+Cloud.+Building+Resilience." alt="Typing SVG" />
   </a>
 
   <br/>
@@ -33,11 +33,12 @@
   </a>
 
 </div>
+
 <br />
 
 ---
 
-### 👨‍💻 Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab" />
@@ -49,20 +50,20 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[📚 Readers Haven](https://github.com/Aymane27-Rio/readers-haven)** | **Microservices & Observability Platform**<br>Full-stack app orchestrated via K8s with a secure API Gateway and full Prometheus/Grafana monitoring. | `React` `Node.js` `K8s` `Prometheus` `MongoDB` |
-| **[🏕️ 3-Tier DevOps Pipeline](https://github.com/abde14-ik/3-Tier-Full-Stack-main)** | **Automated Cloud Deployment**<br>Robust Jenkins CI/CD pipeline deploying a 3-tier app to AWS EKS using Helm, SonarQube, and Trivy. | `Jenkins` `AWS EKS` `Helm` `Docker` `Trivy` |
-| **[🤖 Local RAG System](https://github.com/abde14-ik/)** | **Offline GenAI**<br>Containerized Retrieval-Augmented Generation system using local LLMs for secure document Q&A. | `Python` `LangChain` `Ollama` `Docker` |
-| **[☁️ Azure Pet Store](https://github.com/abde14-ik/)** | **Serverless Architecture**<br>N-Tier app on Azure using AKS, App Service, and Bicep IaC. | `Azure` `Bicep` `AKS` `Github Actions` |
+| **[Readers Haven](https://github.com/Aymane27-Rio/readers-haven)** | **Microservices & Observability Platform**<br>Full-stack app orchestrated via K8s with a secure API Gateway and full Prometheus/Grafana monitoring. | `React` `Node.js` `K8s` `Prometheus` `MongoDB` |
+| **[3-Tier DevOps Pipeline](https://github.com/abde14-ik/3-Tier-Full-Stack-main)** | **Automated Cloud Deployment**<br>Robust Jenkins CI/CD pipeline deploying a 3-tier app to AWS EKS using Helm, SonarQube, and Trivy. | `Jenkins` `AWS EKS` `Helm` `Docker` `Trivy` |
+| **[Local RAG System](https://github.com/abde14-ik/)** | **Offline GenAI**<br>Containerized Retrieval-Augmented Generation system using local LLMs for secure document Q&A. | `Python` `LangChain` `Ollama` `Docker` |
+| **[Azure Pet Store](https://github.com/abde14-ik/)** | **Serverless Architecture**<br>N-Tier app on Azure using AKS, App Service, and Bicep IaC. | `Azure` `Bicep` `AKS` `Github Actions` |
 
 <br />
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   
@@ -82,9 +83,11 @@
 
 </div>
 
+<br />
+
 ---
 
-### 🏃‍♂️ Beyond the Code
+### Beyond the Code
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abde14-ik/portfolio/main/public/images/gold-line.png" alt="" height="1px" width="100%" /> 
